@@ -1,6 +1,6 @@
 # Business-Insights-sales_data
 
-# Overview
+## Overview
 
 This project involves analyzing anonymized sales data using Python, Power BI, and Excel to extract actionable insights and recommendations. The analysis covers data cleaning, exploratory data analysis, advanced analytics, and dashboard reporting.
 
@@ -12,7 +12,7 @@ Power BI (interactive dashboard creation)
 
 Excel (data cleaning and pivot analysis)
 
-# Objectives
+### Objectives
 
 The main objectives of this analysis include:
 
@@ -28,13 +28,13 @@ Creating an interactive dashboard for business intelligence.
 
 Sections
 
-# 1. Data Cleaning and Preparation 
+### 1. Data Cleaning and Preparation 
 
 Inspected data for missing values, duplicates, and inconsistent data types.
 
 Did feature engineering such as created a "Month-Year" column from the "DATE" column for time-based analysis.
 
-# 2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
 Sales Overview: Calculated total Quantity and Value grouped by:
 
@@ -50,7 +50,7 @@ Identified the top 5 most frequently purchased products.
 
 Identified the top 5 most valuable products.
 
-# 3. Advanced Analysis 
+### 3. Advanced Analysis 
 
 Customer Segmentation: Categorized businesses into High, Medium, and Low-Value groups based on:
 
@@ -68,7 +68,7 @@ Anomaly Detection: Identified unusual spikes or drops in sales performance and e
 
 Correlation Analysis: Examined relationships between Quantity and Value to determine sales drivers.
 
-# 4. Strategic Insights and Recommendations 
+### 4. Strategic Insights and Recommendations 
 
 Product Strategy: Recommended a product category to prioritize for marketing campaigns.
 
@@ -76,7 +76,7 @@ Customer Retention: Identified businesses with declining purchase frequency and 
 
 Operational Efficiency: Proposed improvements for inventory management and supply chain processes.
 
-#5. Dashboard and Reporting 
+### 5. Dashboard and Reporting 
 
 Created an interactive dashboard on Power BI summarizing key insights:
 
