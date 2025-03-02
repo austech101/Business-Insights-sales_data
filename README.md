@@ -1,6 +1,6 @@
 # Business-Insights-sales_data
 
-Overview
+## Overview
 
 This project involves analyzing anonymized sales data using Python, Power BI, and Excel to extract actionable insights and recommendations. The analysis covers data cleaning, exploratory data analysis, advanced analytics, and dashboard reporting.
 
